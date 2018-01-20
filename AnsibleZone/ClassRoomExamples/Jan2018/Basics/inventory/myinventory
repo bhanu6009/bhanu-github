@@ -3,7 +3,7 @@
 172.31.23.229
 127.0.0.1
 
-[webserver]
+[webserver1]
 172.31.22.167
 
 [appserver]
